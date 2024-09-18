@@ -2,7 +2,7 @@
   "name": "com.fms.utility",
   "version": "0.0.15",
   "displayName": "Utility",
-  "description": "Author: Jorge Nauel Gerones.\nThis plugin is a base of utilities for unity game editor",
+  "description": "Author: Gamanbit.\nThis plugin is a base of utilities for unity game editor",
   "unity": "2021.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
@@ -10,7 +10,7 @@
   "licensesUrl": "https://example.com/licensing.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JorgeGerones/com.jng.core.git"
+    "url": "https://github.com/hzaro/UtilityScenesUnity.git"
   },
   "keywords": [
     "CoreEditor",
